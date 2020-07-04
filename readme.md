@@ -5,7 +5,7 @@ This is a sample use case for predicting salaries based on machine learning via 
 # Step one:
 
   - Download the data file entitled salary_data.csv
-  - Lets Look at the dataset and review the columns. In this case we have two columns, years of experience and salary. 
+  - Lets look at the dataset and review the columns. In this case we have two columns, years of experience and salary. 
   
 Below is the code snippet for loading the data and viewing it via python
 
